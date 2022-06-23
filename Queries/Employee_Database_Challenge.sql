@@ -81,3 +81,10 @@ AND (dept_emp.to_date = '9999-01-01')
 ORDER BY employees.emp_no, titles.to_date DESC;
 
 SELECT * FROM mentorship_eligibility;
+
+-- Count from Mentorship Eligibility
+
+SELECT count(title), title
+FROM mentorship_eligibilty
+GROUP BY title
+ORDER BY count(title) DESC;

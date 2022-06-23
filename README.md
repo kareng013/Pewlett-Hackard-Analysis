@@ -69,6 +69,8 @@ From the image below we can make the following notes for Employees a part of the
 - Assistant Engineers will need to train roughly 60 new trainees
 - Managers will not have someone as part of this mentorship program
 
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+
 From these results we can see that there may be more people that need to be involved in the mentorship program, it might be better to expand the range of birth dates. 
 From Managers, the most senior manager may need to be selected as part of this mentorship program. 
 
@@ -77,5 +79,5 @@ From Managers, the most senior manager may need to be selected as part of this m
 **Image 5: Mentorship Count**
 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 
